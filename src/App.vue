@@ -2,14 +2,14 @@
   <div class="app">
     <carousel></carousel>
     <home></home>
-    <vue-youtube></vue-youtube>
+    <video-carousel></video-carousel>
   </div>
 </template>
 
 <script>
 import Home from "@page/Home.vue";
 import Carousel from "@component/Carousel.vue";
-import VueYoutube from "@component/Youtube.vue";
+import VideoCarousel from "@component/VideoCarousel.vue";
 
 export default {
   data() {
@@ -18,7 +18,7 @@ export default {
   components: {
     Home,
     Carousel,
-    VueYoutube
+    VideoCarousel
   }
 };
 </script>

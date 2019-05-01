@@ -10,12 +10,6 @@ import 'vue-material/dist/vue-material.min.css'
 import 'vue-material/dist/theme/default.css'
 Vue.use(VueMaterial)
 
-import VueHCarousel from 'vue-h-carousel';
-Vue.use(VueHCarousel);
-
-import VueYoutube from 'vue-youtube'
-Vue.use(VueYoutube)
-
 Vue.config.productionTip = false;
 
 new Vue({
