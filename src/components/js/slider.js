@@ -1,5 +1,3 @@
-import YoutubeVideo from "@component/YoutubeVideo.vue"
-
 export default {
   props: {
     items: {
@@ -32,7 +30,4 @@ export default {
       }
     },
   },
-  components: {
-    YoutubeVideo,
-  }
 }
