@@ -2,14 +2,14 @@
   <div class="app">
     <carousel></carousel>
     <home></home>
-    <video-carousel></video-carousel>
+    <video-banner></video-banner>
   </div>
 </template>
 
 <script>
 import Home from "@page/Home.vue";
 import Carousel from "@component/Carousel.vue";
-import VideoCarousel from "@component/VideoCarousel.vue";
+import VideoBanner from "@component/VideoBanner.vue";
 
 export default {
   data() {
@@ -18,7 +18,7 @@ export default {
   components: {
     Home,
     Carousel,
-    VideoCarousel
+    VideoBanner
   }
 };
 </script>
