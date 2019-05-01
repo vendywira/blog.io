@@ -4,8 +4,8 @@
       <md-card-media-actions>
         <md-card-media>
           <youtube
-            fitParent="true"
-            resize="true"
+            :fitParent=true
+            :resize=true
             :video-id="getId()"
             ref="youtube"
             @playing="playing"
@@ -37,10 +37,10 @@
 </script>
 
 <style lang="scss" scoped>
-.md-card {
-  width: 320px;
-  margin: 4px;
-  display: inline-block;
-  vertical-align: top;
-}
+	.md-card {
+		width: 320px;
+		margin: 4px;
+		display: inline-block;
+		vertical-align: top;
+	}
 </style>
