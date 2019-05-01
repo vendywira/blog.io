@@ -9,7 +9,7 @@ export default {
     return {
       currentOffset: 0,
       windowSize: 3,
-      paginationFactor: 345
+      paginationFactor: 370,
     }
   },
   computed: {

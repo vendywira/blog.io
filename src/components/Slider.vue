@@ -36,7 +36,7 @@
 	.card-carousel {
 		display: flex;
 		justify-content: center;
-		width: 80%;
+		width: 95%;
 
 		&--overflow-container {
 			overflow: hidden;

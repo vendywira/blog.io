@@ -35,7 +35,7 @@
 
 <style lang="scss" scoped>
 	.md-card {
-		width: 320px;
+		width: 360px;
 		margin: 4px;
 		display: inline-block;
 		vertical-align: top;
