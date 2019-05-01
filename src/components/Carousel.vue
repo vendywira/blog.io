@@ -17,8 +17,3 @@
 
 <script src="./js/carousel.js">
 </script>
-
-<style lang="sass">
-
-</style>
-

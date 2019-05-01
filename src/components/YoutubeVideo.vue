@@ -33,9 +33,6 @@
   </div>
 </template>
 
-<script src="./js/youtube-video.js">
-</script>
-
 <style lang="scss" scoped>
 	.md-card {
 		width: 320px;
@@ -44,3 +41,6 @@
 		vertical-align: top;
 	}
 </style>
+
+<script src="./js/youtube-video.js">
+</script>
