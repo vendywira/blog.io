@@ -68,7 +68,6 @@
 		max-height: 800px;
 		border: 1px solid rgba(#000, 0.12);
 	}
-
 	// Demo purposes only
 	.md-drawer {
 		width: 230px;
